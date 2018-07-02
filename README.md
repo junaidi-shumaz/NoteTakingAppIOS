@@ -16,4 +16,4 @@ Screen two comes with feature set such as browse media from album, capture live 
 Screen three involves email composing and auto include of photos as attachmenst.
 
 # Feel of an application 
-![Screenshot](Img1.png) ![Screenshot](Img2.png) ![Screenshot](Img3.png) ![Chatroom](Img3.png)
+![Screenshot](Img1.png) ![Screenshot](Img2.png) ![Screenshot](Img3.png)
