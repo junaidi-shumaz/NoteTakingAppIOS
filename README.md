@@ -11,6 +11,7 @@ IOS 9.X
 
 # Usage Instruction & Features
 To get start with this app, user has to tap "+" which takes user to the screen which allows text and image capturing facility.
+App allows user to delete the existing notes just by tapping on edit link available top left corner and select the required note to be deleted and confirm...
 Screen two comes with feature set such as browse media from album, capture live phots, edit existing notes and send email.
 
 Screen three involves email composing and auto include of photos as attachmenst.
